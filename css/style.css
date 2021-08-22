@@ -1,0 +1,313 @@
+header {background: #E5E5E5}
+h1 {
+background-color:#C4C4C4;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 188px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 35px;
+font-style: normal; 
+font-weight: 700;
+line-height: 29.64px;
+text-align: center;
+color: #005677;
+position: absolute;
+width: 1013px;
+height: 30px;
+left: 213px;
+top: 203px;
+line-height: 84.69%;
+font-feature-settings: 'cpsp' on;
+}
+
+
+.datosPersonales { 
+position: absolute;
+width: 1041px;
+height: 30px;
+left: 213px;
+top: 365px;
+background-color: #C4C4C4;
+background-size: cover;
+position: absolute;
+width: 286px;
+height: 17px;
+left: 222px;
+top: 371px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 84.69%;
+font-feature-settings: 'cpsp';
+color: #005677 } 
+
+
+.nombre {
+
+position: absolute;
+width: 199px;
+height: 13px;
+left: 262px;
+top: 413px;
+
+font-family: Times New Roman;
+font-style: italic;
+font-weight: bold;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000 
+}
+
+.fecha {
+
+position: absolute;
+width: 208px;
+height: 13px;
+left: 262px;
+top: 436px;
+
+font-family: Times New Roman;
+font-style: italic;
+font-weight: bold;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.lugar {
+
+position: absolute;
+width: 216px;
+height: 13;
+left: 262px;
+top: 459px;
+
+font-family: Times New Roman;
+font-style: italic;
+font-weight: bold;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+
+}
+
+.academica {
+
+position: absolute;
+width: 354px;
+height: 17px;
+left: 222px;
+top: 508px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 84.69%;
+font-feature-settings: 'cpsp' on;
+color: #005677;
+background-color: #C4C4C4;
+
+}
+
+.años {
+
+position: absolute;
+width: 262px;
+height: 34px;
+left: 262px;
+top: 551px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.estudios {
+
+
+position: absolute;
+width: 262px;
+height: 34px;
+left: 300px;
+top: 551px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: lighter;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.fechas {
+
+    position: absolute;
+    width: 310px;
+    height: 32px;
+    left: 263px;
+    top: 595px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 84.69%;
+    color: #000000;   
+}
+
+.masters {
+
+    position: absolute;
+width: 310px;
+height: 32px;
+left: 300px;
+top: 595px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: lighter;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.experiencia {
+
+    position: absolute;
+width: 338px;
+height: 17px;
+left: 222px;
+top: 663px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 84.69%;
+background-color: #C4C4C4;
+font-feature-settings: 'cpsp' on;
+color: #005677;
+}
+
+.primero {
+
+    position: absolute;
+width: 353px;
+height: 34px;
+left: 262px;
+top: 706px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.desempleado {
+
+    position: absolute;
+width: 353px;
+height: 34px;
+left: 300px;
+top: 706px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: lighter;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.segundo {
+
+    position: absolute;
+width: 539px;
+height: 32px;
+left: 263px;
+top: 750px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.frio {
+
+position: absolute;
+width: 539px;
+height: 32px;
+left: 300px;
+top: 750px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: lighter;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.tercero {
+
+    position: absolute;
+width: 655px;
+height: 32px;
+left: 264px;
+top: 792px;
+font-family: Times New Roman;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.mejor {
+
+    position: absolute;
+width: 655px;
+height: 32px;
+left: 300px;
+top: 792px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: lighter;
+font-size: 15px;
+line-height: 84.69%;
+color: #000000;
+}
+
+.heroe {
+
+
+    position: absolute;
+    width: 145px;
+    height: 17px;
+    left: 601px;
+    top: 998px;
+    
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #201e1e;
+}
+
+footer {
+
+
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 987px;
+background: #005677;
+color: #FFFFFF;
+text-align: center;
+}
